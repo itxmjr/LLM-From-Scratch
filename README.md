@@ -102,10 +102,12 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/mjawad.tech-Portfolio-16a34a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mjawad.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itxmjr)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itxmjr)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@aibymjr)
+<a href="https://mjawad.tech"><img src="https://img.shields.io/badge/M%20Jawad-Portfolio-39ff14?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000" alt="Portfolio" height="22"/></a>
+<a href="https://linkedin.com/in/itxmjr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="22"/></a>
+<a href="https://github.com/itxmjr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="22"/></a>
+<a href="https://youtube.com/@aibymjr"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="22"/></a>
+<a href="https://www.fiverr.com/aibymjr"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" height="22"/></a>
+<a href="https://www.upwork.com/freelancers/~011c75cbed1d1a6c4b"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" height="22"/></a>
 
 <sub>Built with ❤️ by M Jawad ur Rehman.</sub>
 
